@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React Mega-Blogging App
 Welcome to the React Blogging App, a powerful and feature-rich blogging application built with React.js (Vite). This application allows you to write, edit, and publish your blogs seamlessly. With a real-time editor, React Router for navigation, React Redux Toolkit for state management, and stylized with Tailwind CSS, this app provides a smooth and enjoyable blogging experience.
 
@@ -11,3 +12,13 @@ React Redux Toolkit: Manage the application state efficiently using React Redux 
 Tailwind CSS: The application is stylized with Tailwind CSS, offering a highly customizable and utility-first approach to styling.
 
 Appwrite Integration: The backend of this application is currently powered by Appwrite, a secure and scalable backend-as-a-service (BaaS) platform. It provides authentication, database, file storage, and more out of the bo
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 0880ad9 (first commit)
