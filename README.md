@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-React Mega-Blogging App
+ Mega-Blogging App
+
+ 
 Welcome to the React Blogging App, a powerful and feature-rich blogging application built with React.js (Vite). This application allows you to write, edit, and publish your blogs seamlessly. With a real-time editor, React Router for navigation, React Redux Toolkit for state management, and stylized with Tailwind CSS, this app provides a smooth and enjoyable blogging experience.
 
 Features
